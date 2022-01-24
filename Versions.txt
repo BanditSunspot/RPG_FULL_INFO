@@ -1,0 +1,56 @@
+V1.4 (actuelle)
+
+Modifications des plaines magiques
+Ajout de nouveau monstres:
+Magma:
+	Golem de lave
+	Golem de feu
+	Elementaire de feu
+	Ifrit
+
+Foret:
+	Être Sylvain
+	Elfe
+	Goblin
+	Renard
+
+Landes:
+	Golem de terre
+	Golem de l'argile
+
+Plaines Magiques:
+	Licorne
+	Centaure
+	Fée
+	Minotaure
+
+Plaines:
+	Paysans
+	Bandit
+	Troll
+
+V1.3
+
+Ajout d'une nouvelle police d'écriture
+Ajout d'un synopsis
+Sécurisation et encodage des datas en binaire, plus de facilité pour passer d'un OS à un autre
+Nouvelles tuiles: Monde Plaines / Monde Plaines Magiques / Monde Magma
+
+V1.2
+
+Ajout d'une fenêtre pour voir ses stats (Interaction dans la page en cours de dev)
+Redisposition des fenêtres pour plus de simplicité dans l'interface
+
+V1.1
+
+Reset total des stats et inventaire du personnage lors de sa mort
+Modification d'un stockage d'equipement
+Ajout de la possibilité d'équiper et déséquiper les objets
+
+V1.0
+
+Amélioration des design des entités
+Nouvelles tuiles: Monde Forêt / Monde Landes
+Ajout de nouvelles musiques de fond
+Ajout d'un inventaire
+Ajout d'un magasin
